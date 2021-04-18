@@ -1,4 +1,4 @@
-# BetterCommands
+# BetterCommands v1.0 (DEPRECATED)
 ---
 BetterCommands is a command library written in the Lua programming language, this library is to beginner programmers who need commands in their Roblox game.
 
@@ -14,5 +14,9 @@ BetterCommands is a command library written in the Lua programming language, thi
 
 !!! info
     Right now I'm not accepting random Roblox friend request but we can always talk via Discord.
+    
+!!! warn
+   This library will be marked as deprecated because I'm coding a new one called VisualCommands. Basically this new library will be using a Roblox plugin for creating
+   commands without coding and make it easier. 
 
 ---
